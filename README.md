@@ -14,7 +14,6 @@ This project is a visualization number of flight about built with a Next.js fron
 ## Technologies Used
 
 * **Frontend:** Next.js, React, JavaScript/TypeScript
-* **Other:** [List any other relevant technologies, e.g., deployment tools (Docker, Heroku)]
 
 ## Getting Started
 
@@ -22,12 +21,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* Node.js and npm/yarn [Specify versions if necessary]
+* Node.js and npm/yarn
 
 
 ### Installing
 
-**Full Stack Setup (Recommended if you intend to run both frontend and backend locally):**
+**Full Stack Setup (Recommended if you intend to run both frontend locally):**
 
 1. Clone the repository:
    ```bash
