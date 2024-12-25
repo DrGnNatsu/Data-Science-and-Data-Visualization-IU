@@ -38,3 +38,12 @@ These instructions will get you a copy of the project up and running on your loc
    npm install #
    npm run dev
 
+---
+## Contribution of the Team
+| Members                    | Positions                                                  | Contribution
+| :--------                  | :-------                                                   |:-------:
+| Pham Hoang Phuong          | Project Manager (Leader), Front-end, Design Website        | 20 %
+| Pham Anh Khoi              | Front-end, Report                                          | 20 %
+| Nguyen Vu Thanh Tinh       | Front-end                                                  | 20 %
+| Dang Ngoc Thai Son         | Front-end, Debugger                                        | 20 %
+| Hoang An Thien             | Front-end                                                  | 20 %
